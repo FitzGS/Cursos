@@ -35,3 +35,22 @@ Para insertar un hipervinculo se utiliza el anchor tag
 <a href="#" >Link</a>
 ```
 ![anchor](anchortag.png "Anchor tag estructura")
+
+# Tables
+Estructura correcta para usar las tablas
+```html
+<table>
+    <thead>
+        <tr>
+        <th>Encabezado 1</th>
+        <th>Encabezado 2</th>
+        <tr>
+    </thead> <!-- Titulos o Encabezados-->
+    <tbody> <!--Aqui va la informacion -->
+        <tr> <!-- Fila-->
+            <td></td><!--Columna-->
+        </tr>
+    </tbody>
+    <tfoot></tfoot> <!-- Pie de pagina -->
+</table>
+```
