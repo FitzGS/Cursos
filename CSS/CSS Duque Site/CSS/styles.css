@@ -1,0 +1,135 @@
+/******************************* Tag *********************************/
+
+body {
+    background-color: #F2F2F2;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    
+}
+
+h1 {
+    margin-top: 0;
+    color: #9C2C2C;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    margin-bottom: 0;
+
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #9C2C2C;
+    margin-top: 0.5rem;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #9C2C2C;
+}
+
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+hr {
+    border: dotted #adadad 6px;
+    border-bottom: none;
+    width: 4%;
+    
+}
+/********************************* Class ******************************/
+.lazy {
+    text-decoration: underline;
+}
+
+.duque {
+    
+    color: #F7C873;
+
+}
+
+.duque2 {
+    color: #F2F2F2;
+}
+
+.top-container {
+    background-color: #7FA99B;
+    position: relative;
+    padding-top: 100px;
+    margin-bottom: 3rem;
+    
+}
+
+.hobby
+{
+    width: 50%;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.skills
+{
+    width: 50%;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.cloud1 {
+    position: absolute;
+    right: 200px;
+    bottom: 150px
+    
+}
+
+.cloud2 {
+    position: absolute;
+    left: 200px;
+
+}
+
+.cloud3 {
+    position: absolute;
+    right: 400px;
+    bottom: 50px;
+    width: 130px;
+    height: 130px;
+}
+
+.cloud4 {
+    position: absolute;
+    left: 400px;
+    width: 130px;
+    height: 130px;
+
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #9C2C2C;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #bd6363;
+    text-decoration: none;
+  }
+
+  .contactme{
+      margin: 30px Auto 30px Auto;
+  }
+
+
